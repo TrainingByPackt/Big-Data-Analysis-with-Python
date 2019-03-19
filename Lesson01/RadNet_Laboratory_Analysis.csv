@@ -1,0 +1,607 @@
+State,Location,Date Posted,Date Collected,Sample Type,Unit,Ba-140,Co-60,Cs-134,Cs-136,Cs-137,I-131,I-132,I-133,Te-129,Te-129m,Te-132
+ID,Boise,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.088,Non-detect,Non-detect,,,Non-detect
+ID,Boise,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.055,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0057,,0.0074,0.067,Non-detect,Non-detect,,,0.0043
+AK,Nome,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.096,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.22,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.016,,0.023,0.2,0.019,Non-detect,,,0.027
+AK,Nome,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.14,Non-detect,0.12,0.43,0.094,Non-detect,Non-detect,Non-detect,0.14
+AK,Nome,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.1,0.012,0.13,0.39,0.076,Non-detect,0.12,0.061,0.12
+HI,Oahu,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.034,,0.021,0.2,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.028,,0.036,0.14,0.02,Non-detect,,,0.029
+HI,Oahu,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.076,,0.092,0.64,0.052,Non-detect,,,0.063
+HI,Oahu,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.093,Non-detect,0.12,0.66,Non-detect,Non-detect,Non-detect,Non-detect,0.051
+HI,Oahu,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,ND,,Non-detect,0.059,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.87,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,1.9,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.013,,0.016,0.053,Non-detect,Non-detect,,,0.0087
+CA,Anaheim,04/04/2011,03/25/2011,Air Filter,pCi/m3,,,0.026,,0.031,0.22,0.02,,,,0.023
+CA,Anaheim,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.53,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.34,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.78,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.76,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,1.4,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.18,Non-detect,Non-detect,,,Non-detect
+CA,San Bernardino,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.45,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/11/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/15/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/18/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0012,,0.0017,0.046,0.0095,Non-detect,,,0.012
+CA,Anaheim,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.13,Non-detect,Non-detect,,,0.019
+CA,Anaheim,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0076,,0.008,0.13,0.018,Non-detect,,,0.022
+CA,Anaheim,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.17,Non-detect,Non-detect,,,0.031
+CA,Anaheim,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.017,,0.021,0.15,0.022,Non-detect,,,0.031
+CA,Anaheim,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.093,Non-detect,Non-detect,,,Non-detect
+CA,Anaheim,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,0.0015,0.08,Non-detect,Non-detect,,,Non-detect
+ID,Boise,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.13,Non-detect,Non-detect,,,Non-detect
+ID,Boise,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.012,,0.017,0.11,Non-detect,Non-detect,,,0.01
+ID,Boise,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0084,,0.0096,0.098,Non-detect,Non-detect,,,0.0052
+CA,Anaheim,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Anaheim,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.5,Non-detect,Non-detect,,,Non-detect
+ID,Boise,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.66,Non-detect,Non-detect,,,Non-detect
+ID,Boise,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.49,Non-detect,Non-detect,,,Non-detect
+ID,Boise,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.37,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.77,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.75,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.41,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/08/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/08/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.32,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.27,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/10/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.24,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.048,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.055,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,03/30/2011,03/19/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,2.4,Non-detect,Non-detect,,,Non-detect
+AK,Dutch Harbor,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,2.8,Non-detect,Non-detect,,,Non-detect
+AK,Dutch Harbor,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.52,Non-detect,Non-detect,,,Non-detect
+AK,Dutch Harbor,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.78,Non-detect,Non-detect,,,Non-detect
+AK,Dutch Harbor,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.069,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/09/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.39,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/08/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.21,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/09/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/09/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/09/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.19,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.11,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/08/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.06,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.076,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,03/30/2011,03/19/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+AK,Dutch Harbor,03/30/2011,03/19/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.037,,0.053,0.66,0.17,Non-detect,,,0.19
+Guam,Guam,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+Guam,Guam,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.64,Non-detect,Non-detect,,,Non-detect
+Guam,Guam,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.19,Non-detect,Non-detect,,,Non-detect
+Guam,Guam,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/08/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/08/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/08/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/09/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/10/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam ,Guam,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam ,Guam,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam ,Guam,04/10/2011,04/04/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.037,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.18,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.25,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/04/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.093,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/08/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.43,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/08/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.38,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/09/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.28,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/09/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.31,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/08/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.061,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.098,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.071,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.077,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Juneau,04/10/2011,04/04/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.073,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK ,Juneau,04/10/2011,04/05/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.07,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.16,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/09/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.56,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/09/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.47,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/09/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.35,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.086,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,03/30/2011,03/18/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.18,Non-detect,Non-detect,,,Non-detect
+NV,Las Vegas,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,1.1,Non-detect,Non-detect,,,Non-detect
+NV,Las Vegas,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.64,Non-detect,Non-detect,,,Non-detect
+NV,Las Vegas,03/30/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.35,Non-detect,Non-detect,,,Non-detect
+NV,Las Vegas,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.61,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/04/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/08/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.044,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/08/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.088,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,03/30/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.15,Non-detect,Non-detect,,,Non-detect
+AL,Montgomery,04/04/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.12,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,04/08/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.055,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,04/10/2011,04/04/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.069,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,04/10/2011,04/05/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.11,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.41,Non-detect,Non-detect,,,Non-detect
+AK,Nome,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.46,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/08/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.26,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/08/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.46,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/08/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.36,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.23,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.36,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/08/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.17,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.061,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.05,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.056,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.089,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,04/04/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.086,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,04/10/2011,04/05/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.047,0.0071,0.062,0.84,0.028,Non-detect,Non-detect,Non-detect,0.051
+AK,Nome,04/10/2011,04/05/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.81,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.25,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/04/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.41,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/09/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.52,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/09/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.27,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/09/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.13,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/08/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/08/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.089,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/10/2011,04/03/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/10/2011,04/04/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,03/30/2011,03/21/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.78,Non-detect,Non-detect,,,Non-detect
+CNMI,Saipan,04/04/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.58,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/04/2011,03/23/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.072,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/04/2011,03/24/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.057,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/09/2011,03/25/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/09/2011,03/26/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/09/2011,03/27/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/08/2011,03/28/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,03/29/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,03/30/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,03/31/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,04/01/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,04/02/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,San Bernardino,03/30/2011,03/20/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.69,Non-detect,Non-detect,,,Non-detect
+CA,San Bernardino,03/30/2011,03/22/2011,Air Cartridge,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,1.1,Non-detect,Non-detect,,,Non-detect
+ID,Boise,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.068,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,03/30/2011,03/19/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.043,,0.063,0.69,0.29,Non-detect,,,0.4
+AK,Dutch Harbor,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0098,,0.014,0.2,0.034,Non-detect,,,0.028
+AK,Dutch Harbor,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.072,,0.053,0.077,Non-detect,Non-detect,,,0.1
+AK,Dutch Harbor,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.069,,0.088,0.078,0.079,Non-detect,,,0.12
+AK,Dutch Harbor,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Dutch Harbor,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.012,Non-detect,0.012,0.036,0.011,Non-detect,Non-detect,Non-detect,0.018
+Guam,Guam,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.018,,0.021,0.13,0.02,Non-detect,,,0.034
+Guam,Guam,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.066,Non-detect,Non-detect,,,Non-detect
+Guam,Guam,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0034,,0.0047,0.052,Non-detect,Non-detect,,,0.0076
+HI,Honolulu,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0051,,0.007,0.23,0.006,Non-detect,,,0.0061
+FL,Jacksonville,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0073,Non-detect,0.0082,0.14,0.011,Non-detect,Non-detect,Non-detect,0.016
+AK,Juneau,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.064,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0036,,0.004,0.056,Non-detect,Non-detect,,,0.0037
+AK,Juneau,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.079,Non-detect,Non-detect,,,Non-detect
+AK,Juneau,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.035,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.079,Non-detect,0.086,0.52,0.06,Non-detect,Non-detect,Non-detect,0.064
+HI,Kauai,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.061,0.0083,0.075,0.39,0.042,Non-detect,Non-detect,Non-detect,0.052
+HI,Kauai,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.089,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Kauai,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.014,Non-detect,0.02,0.07,Non-detect,Non-detect,Non-detect,Non-detect,0.017
+CNMI,Saipan,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.033,,0.04,0.24,0.036,Non-detect,,,0.056
+NV,Las Vegas,04/04/2011,03/18/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.096,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.052,Non-detect,0.048,0.21,0.039,Non-detect,Non-detect,Non-detect,0.041
+NV,Las Vegas,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.06,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.053,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.032,Non-detect,0.058,0.2,Non-detect,Non-detect,Non-detect,Non-detect,0.027
+AL,Montgomery,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.031,Non-detect,Non-detect,Non-detect,Non-detect,0.0094
+AL,Montgomery,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,0.0018,0.012,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Nome,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,0.015,0.069,Non-detect,Non-detect,,,Non-detect
+AK,Nome,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.068,Non-detect,Non-detect,,,Non-detect
+HI,Oahu,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Oahu,04/04/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0064,Non-detect,0.01,0.11,0.017,Non-detect,Non-detect,Non-detect,0.026
+FL,Orlando,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.015,0.0014,0.019,0.2,0.018,Non-detect,Non-detect,0.13,0.024
+AZ,Phoenix,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Riverside,03/30/2011,03/15/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CA,Riverside,03/30/2011,03/18/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.00024,,0.00024,0.011,0.0011,Non-detect,,,0.0014
+CNMI,Saipan,03/30/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.068,,Non-detect,0.27,Non-detect,Non-detect,,,0.1
+CNMI,Saipan,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.095,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/04/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0058,Non-detect,0.0042,0.088,Non-detect,Non-detect,Non-detect,Non-detect,0.0083
+UT,Salt Lake City,04/04/2011,03/21/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.014,0.0029,0.018,0.35,0.019,Non-detect,Non-detect,Non-detect,0.025
+UT,Salt Lake City,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.079,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,San Bernardino,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.0088,,0.017,0.14,Non-detect,Non-detect,,,0.027
+CA,San Bernardino,03/30/2011,03/20/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.012,,0.014,0.17,0.027,Non-detect,,,0.031
+CA,San Bernardino,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,0.018,0.11,Non-detect,Non-detect,,,Non-detect
+CA,San Bernardino,03/30/2011,03/22/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.013,,0.018,0.11,0.018,Non-detect,,,0.027
+CA,San Bernardino,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.093,Non-detect,Non-detect,,,Non-detect
+CA,San Bernardino,03/30/2011,03/23/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,,Non-detect,0.093,Non-detect,Non-detect,,,Non-detect
+CA,San Francisco,03/30/2011,03/18/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.00092,,0.0013,0.068,0.0066,0.002,,,0.0075
+WA,Seattle,03/30/2011,03/18/2011,Air Filter,pCi/m3,Non-detect,Non-detect,0.00052,,0.00045,0.013,0.0029,Non-detect,,,0.0034
+FL,Tampa,04/04/2011,03/24/2011,Air Filter,pCi/m3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Ashland,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Ashland,04/22/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+TX,Austin,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,Austin,06/01/2011,04/12/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Baltimore,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Baltimore,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Barnwell,04/08/2011,03/31/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Barnwell,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Baxley,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Baxley,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ND,Bismarck,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ND,Bismarck,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IA,Cedar Rapids,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IA,Cedar Rapids,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Chattanooga,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.6,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Chattanooga,06/01/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cincinnati,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.13,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cincinnati,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Columbia,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Columbia,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Columbia,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Columbia,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Columbus,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Columbus,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,04/15/2011,04/07/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,04/20/2011,04/12/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,06/01/2011,04/18/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,06/01/2011,04/25/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord ,04/15/2011,04/07/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Conowingo,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Conowingo,06/01/2011,04/19/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.17,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Detroit,04/08/2011,03/31/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.28,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Detroit,06/01/2011,04/27/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Dothan,04/10/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Dothan,06/01/2011,04/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+DE,Dover,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+DE,Dover,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,4.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,East Liverpool,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.42,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,East Liverpool,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Fairbanks,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AK,Fairbanks,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Grand Rapids,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Grand Rapids,06/01/2011,04/21/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Harrisburg,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Harrisburg,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.13,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/13/2011,04/06/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MT,Helena,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MT,Helena,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Honolulu,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Honolulu ,06/01/2011,04/19/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Idaho Falls,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Idaho Falls,06/01/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MS,Jackson,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MS,Jackson,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MO,Jefferson City,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MO,Jefferson City,04/21/2011,04/12/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Jenkinsville,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Jenkinsville,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/13/2011,04/05/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,06/01/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NE,Lincoln,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NE,Lincoln,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Los Angeles,04/10/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.39,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Los Angeles ,06/01/2011,04/12/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Lynchburg,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Lynchburg,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Lynchburg,04/20/2011,04/11/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WI,Madison,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WI,Madison,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Miami,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,05/03/2011,04/01/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,06/01/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IL,Morris,04/09/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IL,Morris,06/01/2011,04/19/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Muscle Shoals,04/08/2011,03/31/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.16,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Muscle Shoals,06/01/2011,04/27/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+LA,New Orleans,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+LA,New Orleans,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,New York,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,New York,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Niagara Falls,04/08/2011,03/31/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Niagara Falls,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/360,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/360,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/371,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.63,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/371,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/4442,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.28,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/4442,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/768,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/768,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/772,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/772,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OK,Oklahoma City,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OK,Oklahoma City,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Painesville,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.43,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Painesville,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Philadelphia/Baxter,04/09/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.46,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Philadelphia/Baxter,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.36,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Philadelphia/Belmont,04/09/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Philadelphia/Belmont,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Philadelphia/Queen,04/09/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA ,Philadelphia/Queen,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Pittsburgh,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.36,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Pittsburgh,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MS,Port Gibson,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MS,Port Gibson,06/01/2011,04/19/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,04/04/2011,03/25/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+RI,Providence,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+RI ,Providence,06/01/2011,04/15/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Raleigh,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Richland,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.23,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Richland,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,04/09/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NM,Santa Fe,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NM,Santa Fe,06/01/2011,04/18/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Savannah,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Savannah,04/21/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Scottsboro,04/09/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,5.6,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Scottsboro,06/01/2011,04/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Seattle,04/04/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Seneca,04/10/2011,04/04/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+SC,Seneca,06/01/2011,04/18/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,St. Paul,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,St. Paul,04/22/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.16,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Syracuse,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Syracuse,06/01/2011,04/13/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Tampa,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Tampa,06/01/2011,04/18/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Toledo,04/08/2011,03/30/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Topeka,04/08/2011,03/31/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Topeka,04/22/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.15,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NJ,Trenton,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.38,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IL,W. Chicago,04/15/2011,04/05/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NJ,Waretown,04/08/2011,03/28/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.38,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NJ,Waretown,06/01/2011,04/19/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,Welch,04/08/2011,03/29/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,Welch,06/01/2011,04/14/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IL,West Chicago,06/01/2011,04/27/2011,Drinking Water,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NM,Albuquerque,04/06/2011,03/29/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NM,Albuquerque,04/16/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Athens,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Athens,04/20/2011,04/14/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Baltimore,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MD,Baltimore,04/22/2011,04/15/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Buffalo,04/09/2011,04/01/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Buffalo,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WV,Charleston,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WV,Charleston,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cincinnati,04/09/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cincinnati,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cincinnati ,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cleveland,04/09/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cleveland,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Cleveland,04/20/2011,04/14/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,Dallas,04/09/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,Dallas,04/16/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IA,Des Moines,04/02/2011,03/21/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+IA,Des Moines,04/06/2011,03/29/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Detroit,04/06/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+DE,Dover,04/09/2011,04/01/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,E. Lansing ,04/20/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/25/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/26/2011,04/20/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Hilo,04/10/2011,04/04/2011,Milk,pCi/l,Non-detect,Non-detect,24,Non-detect,19,18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Hilo,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,11,Non-detect,10,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MO,Jefferson City,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MO,Jefferson City ,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/20/2011,04/14/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Las Vegas,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/09/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,8.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Los Angeles,04/06/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Los Angeles,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KY,Louisville,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KY,Louisville ,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Memphis,04/16/2011,04/11/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VT,Montpelier,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,1.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Oakland ,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,2.5,Non-detect,Non-detect,3.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AZ,Phoenix,04/06/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AZ,Phoenix,04/09/2011,03/29/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Pittsburgh,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Pittsburgh,04/16/2011,04/05/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Plant City,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Plant City,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,04/06/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Reno,04/13/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Reno,04/10/2011,04/04/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NV,Reno,04/25/2011,04/18/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,San Antonio,04/08/2011,03/30/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,San Antonio,04/26/2011,04/19/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,San Francisco,04/06/2011,03/28/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Spokane,04/04/2011,03/21/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Spokane,04/02/2011,03/25/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,0.77,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Spokane,04/16/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Syracuse,04/08/2011,03/29/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Syracuse,04/20/2011,04/13/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Tacoma,04/04/2011,03/24/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Tacoma,05/03/2011,04/24/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NJ,Trenton,04/09/2011,03/31/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NJ,Trenton,04/22/2011,04/15/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Wichita,04/08/2011,03/29/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Wichita,04/20/2011,04/12/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+DE,Wilmington,04/25/2011,04/18/2011,Milk,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,04/04/2011,03/16/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+NY,Albany,04/04/2011,03/23/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,30,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,04/20/2011,04/11/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,05/03/2011,04/19/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany ,04/15/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Atlanta,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+GA,Atlanta,04/15/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,17,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TX,Austin,04/22/2011,04/12/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Boise,04/04/2011,03/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,11.2,,11.6,242,Non-detect,Non-detect,,,Non-detect
+ID,Boise,04/08/2011,03/27/2011,Precipitation,pCi/l,Non-detect,Non-detect,42,Non-detect,36,390,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,04/04/2011,03/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+MA,Boston,04/08/2011,03/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,92,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,15,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,04/13/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,20,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,04/15/2011,04/06/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,9.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,05/03/2011,04/19/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,05/03/2011,04/20/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,7.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/13/2011,03/29/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,45,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/13/2011,04/01/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,15,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/13/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,4.4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,04/22/2011,04/12/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,05/03/2011,04/19/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,04/13/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,24,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,04/15/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,47,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,05/03/2011,04/14/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,43,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/15/2011,03/30/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/15/2011,04/01/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,04/15/2011,04/02/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+Guam,Guam,05/03/2011,04/20/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Harrisburg,04/15/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,5.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/04/2011,03/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CT,Hartford,04/04/2011,03/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CT,Hartford,04/04/2011,03/25/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,26,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,19,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/15/2011,04/08/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,12,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Honolulu,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+ID,Idaho Falls,04/15/2011,04/01/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,32,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Jacksonville,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,1.4,Non-detect,Non-detect,150,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Jacksonville,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,22,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+FL,Jacksonville,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Kansas City,04/04/2011,03/21/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Kansas City,04/13/2011,03/29/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,200,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Kansas City,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,18,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Kansas City,05/03/2011,04/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/10/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/13/2011,04/01/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,26,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/13/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Lansing,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,1.2,21,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Lansing,05/03/2011,04/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/13/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,44,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/15/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,6.4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,04/22/2011,04/11/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,05/03/2011,04/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,05/03/2011,04/21/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+VA,Lynchburg,04/13/2011,04/01/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,9.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,04/04/2011,03/21/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+AL,Montgomery,04/04/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,16.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery,04/08/2011,03/30/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery ,04/13/2011,04/06/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville,04/13/2011,03/15/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville,04/13/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,72,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,19,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville,05/03/2011,04/19/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville ,04/20/2011,04/06/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,5.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K-12,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+TN,Oak Ridge/K-12,04/04/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,17.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K-25,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,1.2,19,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K-25,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,40,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K-25,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+TN,Oak Ridge/Melton,04/04/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,18.3,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/10/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,1.3,Non-detect,1.4,81,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,0.87,21,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12,04/04/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,13.4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12,04/10/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,2.1,54,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12 ,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,1.3,Non-detect,1.4,20,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+WA,Olympia,04/04/2011,03/24/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,125,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/13/2011,03/29/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,37,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/13/2011,03/31/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,6.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,12,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/15/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,7.4,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,05/03/2011,04/18/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,05/24/2011,04/25/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,05/24/2011,04/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Painesville,04/04/2011,03/15/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+OH,Painesville,04/04/2011,03/25/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,46.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Painesville,04/13/2011,04/05/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,6,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,04/04/2011,03/25/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,86.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,04/04/2011,03/15/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+CA,Richmond,04/04/2011,03/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,138,Non-detect,Non-detect,,,5.96
+CA,Richmond,04/04/2011,03/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,138,Non-detect,Non-detect,,,5.96
+CA,Richmond,04/10/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,05/03/2011,04/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,5.2,Non-detect,5.5,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/10/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CNMI,Saipan,04/13/2011,04/03/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,04/08/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,8.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,04/13/2011,03/28/2011,Precipitation,pCi/l,Non-detect,Non-detect,1.4,Non-detect,Non-detect,190,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,04/20/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,8.2,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,04/20/2011,04/07/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,14,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,05/03/2011,04/21/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,St. Paul,04/04/2011,03/22/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,32.3,Non-detect,Non-detect,,,Non-detect
+MN,St. Paul,04/10/2011,03/29/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,16,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MN,Welch,04/04/2011,03/17/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,,Non-detect,Non-detect,Non-detect,Non-detect,,,Non-detect
+MN,Welch/510,04/13/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,9.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Wilmington,04/10/2011,03/29/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,19,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Wilmington,04/13/2011,04/06/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.6,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Yaphank,04/15/2011,04/04/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,15,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Yaphank,05/03/2011,04/15/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Yaphank,05/03/2011,04/19/2011,Precipitation,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Albany,05/24/2011,04/26/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Atlanta,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+GA,Atlanta ,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,04/26/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,05/24/2011,04/29/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MA,Boston,05/24/2011,04/25/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,05/24/2011,04/29/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NC,Charlotte,05/24/2011,04/26/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NH,Concord,05/24/2011,04/25/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,6.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CO,Denver,05/24/2011,04/25/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+PA,Harrisburg,05/24/2011,04/30/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/26/2011,04/15/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CT,Hartford,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,2.5,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+HI,Honolulu,05/24/2011,04/04/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+KS,Kansas City ,04/25/2011,04/15/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,1.5,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,04/26/2011,04/19/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,05/24/2011,04/26/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Knoxville,05/24/2011,04/29/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+MI,Lansing ,04/25/2011,04/11/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,3.7,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AR,Little Rock,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+AL,Montgomery/408,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Nashville ,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K25,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K25,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/K-25,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Melton,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y12E,04/26/2011,04/18/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y12E,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+TN,Oak Ridge/Y-12E,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+WA,Olympia,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,6.1,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OH,Painesville,05/24/2011,04/29/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+OR,Portland,05/24/2011,04/20/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,04/25/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,8.9,Non-detect,7.9,5.9,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+CA,Richmond,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,6.6,Non-detect,5.8,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,05/24/2011,04/14/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+UT,Salt Lake City,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
+NY,Yaphank,05/24/2011,04/28/2011,Precipitation ,pCi/l,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect,Non-detect
